@@ -1,4 +1,4 @@
-# Metrics
+# Metrics App
 
 A native macOS menu bar and dashboard app for real-time system performance monitoring — CPU, GPU, memory, temperature, and power, with historical charts and per-app breakdowns.
 
